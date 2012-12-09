@@ -1,0 +1,44 @@
+{
+	"Versions":
+	[
+		{
+			"version": "1.2",
+			"summary": "- Updated to Linux 3.0.55\n- mali: disabled bottom lock\n- Proportional Rate Reduction for TCP\n- Various misc patches (see github)",
+			"device": "GT-N7100",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.2x-SAMMY.zip",
+			"type": "sammy"
+		},
+		
+		{
+			"version": "1.2",
+			"summary": "- Updated to Linux 3.0.55\n- mali: disabled bottom lock\n- Proportional Rate Reduction for TCP\n- Various misc patches (see github)",
+			"device": "GT-N7100",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.2x-AOSP.zip",
+			"type": "aosp"
+		},
+	
+		{
+			"version": "1.2",
+			"summary": "- Updated to Linux 3.0.55\n- mali: disabled bottom lock\n- Proportional Rate Reduction for TCP\n- Various misc patches (see github)",
+			"device": "GT-N7105",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.2x-SAMMY-LTE.zip",
+			"type": "sammy"
+		},
+
+		{
+			"version": "2.0",
+			"summary": "First JB Private Release (stable)\nSee github for more infos",
+			"device": "GT-I9300",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.0x-SAMMY.zip",
+			"type": "sammy"
+		},
+		
+		{
+			"version": "2.0",
+			"summary": "First JB Private Release (stable)\nSee github for more infos",
+			"device": "GT-I9300",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.0x-AOSP.zip",
+			"type": "aosp"
+		}
+	]
+}
