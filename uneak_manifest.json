@@ -2,26 +2,26 @@
 	"Versions":
 	[
 		{
-			"version": "1.2",
-			"summary": "- Updated to Linux 3.0.55\n- mali: disabled bottom lock\n- Proportional Rate Reduction for TCP\n- Various misc patches (see github)",
+			"version": "1.3",
+			"summary": "- Updated to Linux 3.0.57\n- Wolfson Sound Control\n- Fixed exynos exploit (AndreiLux)\n- Fixed sammy power saving mode (AndreiLux)\n- Revised init.d (now accept every script name)\n- Allow max brightness of 255 (nebkat)\n- Fixed HDMI audio streaming",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.2x-SAMMY.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.3x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.2",
-			"summary": "- Updated to Linux 3.0.55\n- mali: disabled bottom lock\n- Proportional Rate Reduction for TCP\n- Various misc patches (see github)",
+			"version": "1.3",
+			"summary": "- Updated to Linux 3.0.57\n- Wolfson Sound Control\n- Fixed exynos exploit (AndreiLux)\n- CM10.1 and derivates support\n- Revised init.d (now accept every script name)\n- Allow max brightness of 255 (nebkat)\n- Fixed HDMI audio streaming",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.2x-AOSP.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.3x-AOSP.zip",
 			"type": "aosp"
 		},
 	
 		{
-			"version": "1.2",
-			"summary": "- Updated to Linux 3.0.55\n- mali: disabled bottom lock\n- Proportional Rate Reduction for TCP\n- Various misc patches (see github)",
+			"version": "1.3",
+			"summary": "- Updated to Linux 3.0.57\n- Wolfson Sound Control\n- Fixed exynos exploit (AndreiLux)\n- Fixed sammy power saving mode (AndreiLux)\n- Revised init.d (now accept every script name)\n- Allow max brightness of 255 (nebkat)\n- Fixed HDMI audio streaming",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.2x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.3x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 
