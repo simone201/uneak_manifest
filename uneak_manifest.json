@@ -26,18 +26,18 @@
 		},
 
 		{
-			"version": "2.0",
-			"summary": "First JB Private Release (stable)\nSee github for more infos",
+			"version": "2.1",
+			"summary": "- Linux 3.0.57\n- Wolfson Sound Control\n- Fixed exynos exploit (AndreiLux)\n- Fixed audio on HDMI\n- Various bugfixing and improvements",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.0x-SAMMY.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.1x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.0",
-			"summary": "First JB Private Release (stable)\nSee github for more infos",
+			"version": "2.1",
+			"summary": "- Linux 3.0.57\n- Wolfson Sound Control\n- Fixed exynos exploit (AndreiLux)\n- Works on CM10.1\n- Various bugfixing and improvements",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.0x-AOSP.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.1x-AOSP.zip",
 			"type": "aosp"
 		}
 	]
