@@ -24,6 +24,30 @@
 			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.3x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
+		
+		{
+			"version": "1.3",
+			"summary": "- Updated to Linux 3.0.57\n- Wolfson Sound Control\n- Fixed exynos exploit (AndreiLux)\n- Fixed sammy power saving mode (AndreiLux)\n- Revised init.d (now accept every script name)\n- Allow max brightness of 255 (nebkat)\n- Fixed HDMI audio streaming\n- Many more fixes and improvements (see xda)",
+			"device": "SGH-T889",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.3x-SAMMY-LTE.zip",
+			"type": "sammy"
+		},
+		
+		{
+			"version": "1.3",
+			"summary": "- Updated to Linux 3.0.57\n- Wolfson Sound Control\n- Fixed exynos exploit (AndreiLux)\n- Fixed sammy power saving mode (AndreiLux)\n- Revised init.d (now accept every script name)\n- Allow max brightness of 255 (nebkat)\n- Fixed HDMI audio streaming\n- Many more fixes and improvements (see xda)",
+			"device": "SGH-T889V",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.3x-SAMMY-LTE.zip",
+			"type": "sammy"
+		},
+
+		{
+			"version": "1.3",
+			"summary": "- Updated to Linux 3.0.57\n- Wolfson Sound Control\n- Fixed exynos exploit (AndreiLux)\n- Fixed sammy power saving mode (AndreiLux)\n- Revised init.d (now accept every script name)\n- Allow max brightness of 255 (nebkat)\n- Fixed HDMI audio streaming\n- Many more fixes and improvements (see xda)",
+			"device": "SGH-I317",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.3x-SAMMY-LTE.zip",
+			"type": "sammy"
+		},
 
 		{
 			"version": "2.1",
