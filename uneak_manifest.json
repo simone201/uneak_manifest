@@ -50,18 +50,18 @@
 		},
 
 		{
-			"version": "2.1",
-			"summary": "- Linux 3.0.57\n- Wolfson Sound Control\n- Fixed exynos exploit (AndreiLux)\n- Fixed audio on HDMI\n- Various bugfixing and improvements",
+			"version": "2.2",
+			"summary": "- Updated Wolfson Sound Driver\n- Updated Ramdisks\n- Updated sources from sammy\n- Reduced battery-monitor wakelocks\n- Fixed entropy seeding\n- Fixed SDS Bug\n- Added sammy exynos-mem fix",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.1x-SAMMY.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.2x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.1",
-			"summary": "- Linux 3.0.57\n- Wolfson Sound Control\n- Fixed exynos exploit (AndreiLux)\n- Works on CM10.1\n- Various bugfixing and improvements",
+			"version": "2.2",
+			"summary": "- Updated Wolfson Sound Driver\n- Updated Ramdisks\n- Updated sources from sammy\n- Reduced battery-monitor wakelocks\n- Fixed entropy seeding\n- Fixed SDS Bug\n- Added sammy exynos-mem fix\n- Compatible with new CM10.1 builds\n- Fixed some WiFi related issues",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.1x-AOSP.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.2x-AOSP.zip",
 			"type": "aosp"
 		}
 	]
