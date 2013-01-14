@@ -3,7 +3,7 @@
 	[
 		{
 			"version": "1.4",
-			"summary": "- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
+			"summary": "- Linux 3.0.58\n- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
 			"device": "GT-N7100",
 			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.4x-SAMMY.zip",
 			"type": "sammy"
@@ -11,7 +11,7 @@
 		
 		{
 			"version": "1.4",
-			"summary": "- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Works with newest CM10.1 nightlies\n- Various source updates\n- Fixed entropy depleting\n- UHID Driver",
+			"summary": "- Linux 3.0.58\n- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Works with newest CM10.1 nightlies\n- Various source updates\n- Fixed entropy depleting\n- UHID Driver",
 			"device": "GT-N7100",
 			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.4x-AOSP.zip",
 			"type": "aosp"
@@ -19,7 +19,7 @@
 	
 		{
 			"version": "1.4",
-			"summary": "- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
+			"summary": "- Linux 3.0.58\n- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
 			"device": "GT-N7105",
 			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.4x-SAMMY-LTE.zip",
 			"type": "sammy"
@@ -27,7 +27,7 @@
 		
 		{
 			"version": "1.4",
-			"summary": "- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
+			"summary": "- Linux 3.0.58\n- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
 			"device": "SGH-T889",
 			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.4x-SAMMY-LTE.zip",
 			"type": "sammy"
@@ -35,7 +35,7 @@
 		
 		{
 			"version": "1.4",
-			"summary": "- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
+			"summary": "- Linux 3.0.58\n- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
 			"device": "SGH-T889V",
 			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.4x-SAMMY-LTE.zip",
 			"type": "sammy"
@@ -43,7 +43,7 @@
 
 		{
 			"version": "1.4",
-			"summary": "- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
+			"summary": "- Linux 3.0.58\n- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
 			"device": "SGH-I317",
 			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.4x-SAMMY-LTE.zip",
 			"type": "sammy"
