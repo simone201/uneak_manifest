@@ -50,18 +50,18 @@
 		},
 
 		{
-			"version": "2.2",
-			"summary": "- Updated Wolfson Sound Driver\n- Updated Ramdisks\n- Updated sources from sammy\n- Reduced battery-monitor wakelocks\n- Fixed entropy seeding\n- Fixed SDS Bug\n- Added sammy exynos-mem fix",
+			"version": "2.3",
+			"summary": "- Linux 3.0.58\n- Fixed booting issues (black screen)\n- Wolfson Sound 1.4.2\n- Updated BFQ to v5r1",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.2x-SAMMY.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.3x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.2",
-			"summary": "- Updated Wolfson Sound Driver\n- Updated Ramdisks\n- Updated sources from sammy\n- Reduced battery-monitor wakelocks\n- Fixed entropy seeding\n- Fixed SDS Bug\n- Added sammy exynos-mem fix\n- Compatible with new CM10.1 builds\n- Fixed some WiFi related issues",
+			"version": "2.3",
+			"summary": "- Linux 3.0.58\n- Fixed booting issues (black screen)\n- Wolfson Sound 1.4.2\n- Updated BFQ to v5r1\n- Added BT UHID support",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.2x-AOSP.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.3x-AOSP.zip",
 			"type": "aosp"
 		}
 	]
