@@ -50,18 +50,18 @@
 		},
 
 		{
-			"version": "2.3",
-			"summary": "- Linux 3.0.58\n- Fixed booting issues (black screen)\n- Wolfson Sound 1.4.2\n- Updated BFQ to v5r1",
+			"version": "2.4",
+			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.8\n- Fixed power saving issues\n- Fixed mic issues",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.3x-SAMMY.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.4x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.3",
-			"summary": "- Linux 3.0.58\n- Fixed booting issues (black screen)\n- Wolfson Sound 1.4.2\n- Updated BFQ to v5r1\n- Added BT UHID support",
+			"version": "2.4",
+			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.8\n- Fixed mic issues",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.3x-AOSP.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.4x-AOSP.zip",
 			"type": "aosp"
 		}
 	]
