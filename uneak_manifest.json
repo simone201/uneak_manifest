@@ -2,50 +2,58 @@
 	"Versions":
 	[
 		{
-			"version": "1.4",
-			"summary": "- Linux 3.0.58\n- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
+			"version": "1.5",
+			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.9\n- Fixed mic issues (mostly)\n- wakelock: use single threaded workqueueus\n- Updated BFQ to v5r1",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.4x-SAMMY.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.4",
-			"summary": "- Linux 3.0.58\n- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Works with newest CM10.1 nightlies\n- Various source updates\n- Fixed entropy depleting\n- UHID Driver",
+			"version": "1.5",
+			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.9\n- Fixed mic issues (mostly)\n- wakelock: use single threaded workqueueus\n- Updated BFQ to v5r1",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.4x-AOSP.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-AOSP.zip",
 			"type": "aosp"
 		},
 	
 		{
-			"version": "1.4",
-			"summary": "- Linux 3.0.58\n- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
+			"version": "1.5",
+			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.9\n- Fixed mic issues (mostly)\n- wakelock: use single threaded workqueueus\n- Updated BFQ to v5r1",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.4x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.4",
-			"summary": "- Linux 3.0.58\n- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
+			"version": "1.5",
+			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.9\n- Fixed mic issues (mostly)\n- wakelock: use single threaded workqueueus\n- Updated BFQ to v5r1",
+			"device": "GT-N7105",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-AOSP-LTE.zip",
+			"type": "aosp"
+		},
+		
+		{
+			"version": "1.5",
+			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.9\n- Fixed mic issues (mostly)\n- wakelock: use single threaded workqueueus\n- Updated BFQ to v5r1",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.4x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.4",
-			"summary": "- Linux 3.0.58\n- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
+			"version": "1.5",
+			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.9\n- Fixed mic issues (mostly)\n- wakelock: use single threaded workqueueus\n- Updated BFQ to v5r1",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.4x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 
 		{
-			"version": "1.4",
-			"summary": "- Linux 3.0.58\n- Fixed SDS death bug\n- Implemented sammy exynos-mem exploit fix\n- Updated Wolfson Sound Driver\n- Allowing any name for init.d scripts\n- Various source updates\n- Fixed entropy depleting",
+			"version": "1.5",
+			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.9\n- Fixed mic issues (mostly)\n- wakelock: use single threaded workqueueus\n- Updated BFQ to v5r1",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.4x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 
