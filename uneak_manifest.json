@@ -44,6 +44,14 @@
 		{
 			"version": "1.5",
 			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.9\n- Fixed mic issues (mostly)\n- wakelock: use single threaded workqueueus\n- Updated BFQ to v5r1",
+			"device": "SGH-T889",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-AOSP-LTE.zip",
+			"type": "aosp"
+		},
+		
+		{
+			"version": "1.5",
+			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.9\n- Fixed mic issues (mostly)\n- wakelock: use single threaded workqueueus\n- Updated BFQ to v5r1",
 			"device": "SGH-T889V",
 			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-SAMMY-LTE.zip",
 			"type": "sammy"
@@ -52,9 +60,25 @@
 		{
 			"version": "1.5",
 			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.9\n- Fixed mic issues (mostly)\n- wakelock: use single threaded workqueueus\n- Updated BFQ to v5r1",
+			"device": "SGH-T889V",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-AOSP-LTE.zip",
+			"type": "aosp"
+		},
+
+		{
+			"version": "1.5",
+			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.9\n- Fixed mic issues (mostly)\n- wakelock: use single threaded workqueueus\n- Updated BFQ to v5r1",
 			"device": "SGH-I317",
 			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-SAMMY-LTE.zip",
 			"type": "sammy"
+		},
+		
+		{
+			"version": "1.5",
+			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.9\n- Fixed mic issues (mostly)\n- wakelock: use single threaded workqueueus\n- Updated BFQ to v5r1",
+			"device": "SGH-I317",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-AOSP-LTE.zip",
+			"type": "aosp"
 		},
 
 		{
