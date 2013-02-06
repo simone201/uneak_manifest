@@ -5,7 +5,7 @@
 			"version": "1.6",
 			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-SAMMY.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
@@ -13,7 +13,7 @@
 			"version": "1.6",
 			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-AOSP.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-AOSP.zip",
 			"type": "aosp"
 		},
 	
@@ -21,7 +21,7 @@
 			"version": "1.6",
 			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
@@ -29,7 +29,7 @@
 			"version": "1.6",
 			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 		
@@ -37,7 +37,7 @@
 			"version": "1.6",
 			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
@@ -45,7 +45,7 @@
 			"version": "1.6",
 			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 		
@@ -53,7 +53,7 @@
 			"version": "1.6",
 			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 
@@ -61,7 +61,7 @@
 			"version": "1.6",
 			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 
@@ -69,7 +69,7 @@
 			"version": "1.6",
 			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
@@ -77,7 +77,7 @@
 			"version": "1.6",
 			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.5x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 
