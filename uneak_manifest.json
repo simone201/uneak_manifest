@@ -82,18 +82,18 @@
 		},
 
 		{
-			"version": "2.4",
-			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.8\n- Fixed power saving issues\n- Fixed mic issues",
+			"version": "2.5",
+			"summary": "- Linux 3.0.63\n- Updated Wolfson Sound to 1.4.9\n- CPU Idle adjustments\n- Updated post-init tweaks",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.4x-SAMMY.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.5x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.4",
-			"summary": "- Linux 3.0.61\n- Updated Wolfson Sound to 1.4.8\n- Fixed mic issues",
+			"version": "2.5",
+			"summary": "- Linux 3.0.63\n- Updated Wolfson Sound to 1.4.9\n- CPU Idle adjustments\n- Updated post-init tweaks",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.4x-AOSP.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.5x-AOSP.zip",
 			"type": "aosp"
 		}
 	]
