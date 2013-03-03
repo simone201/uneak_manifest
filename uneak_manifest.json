@@ -2,82 +2,82 @@
 	"Versions":
 	[
 		{
-			"version": "1.6",
-			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
+			"version": "1.7",
+			"summary": "- Linux 3.0.67\n- Updated Wolfson Sound to 1.6.0\n- mmc: better MoviNAND handling\n- rwsem: steal writing sem for better performance",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-SAMMY.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.7x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.6",
-			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
+			"version": "1.7",
+			"summary": "- Linux 3.0.67\n- Updated Wolfson Sound to 1.6.0\n- mmc: better MoviNAND handling\n- rwsem: steal writing sem for better performance\n- New Mali and Wifi drivers (be careful)\n- Only for 4.2.2",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-AOSP.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.7x-AOSP.zip",
 			"type": "aosp"
 		},
 	
 		{
-			"version": "1.6",
-			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
+			"version": "1.7",
+			"summary": "- Linux 3.0.67\n- Updated Wolfson Sound to 1.6.0\n- mmc: better MoviNAND handling\n- rwsem: steal writing sem for better performance",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.7x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.6",
-			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
+			"version": "1.7",
+			"summary": "- Linux 3.0.67\n- Updated Wolfson Sound to 1.6.0\n- mmc: better MoviNAND handling\n- rwsem: steal writing sem for better performance\n- New Mali and Wifi drivers (be careful)\n- Only for 4.2.2",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.7x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 		
 		{
-			"version": "1.6",
-			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
+			"version": "1.7",
+			"summary": "- Linux 3.0.67\n- Updated Wolfson Sound to 1.6.0\n- mmc: better MoviNAND handling\n- rwsem: steal writing sem for better performance",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.7x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.6",
-			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
+			"version": "1.7",
+			"summary": "- Linux 3.0.67\n- Updated Wolfson Sound to 1.6.0\n- mmc: better MoviNAND handling\n- rwsem: steal writing sem for better performance\n- New Mali and Wifi drivers (be careful)\n- Only for 4.2.2",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.7x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 		
 		{
-			"version": "1.6",
-			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
+			"version": "1.7",
+			"summary": "- Linux 3.0.67\n- Updated Wolfson Sound to 1.6.0\n- mmc: better MoviNAND handling\n- rwsem: steal writing sem for better performance",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.7x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 
 		{
-			"version": "1.6",
-			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
+			"version": "1.7",
+			"summary": "- Linux 3.0.67\n- Updated Wolfson Sound to 1.6.0\n- mmc: better MoviNAND handling\n- rwsem: steal writing sem for better performance\n- New Mali and Wifi drivers (be careful)\n- Only for 4.2.2",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.7x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 
 		{
-			"version": "1.6",
-			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
+			"version": "1.7",
+			"summary": "- Linux 3.0.67\n- Updated Wolfson Sound to 1.6.0\n- mmc: better MoviNAND handling\n- rwsem: steal writing sem for better performance",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.7x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.6",
-			"summary": "- Should fix battery drain issues\n- Reverted some patches for cpuidle\n- Reverted some patches for workqueue\n- Updated post-init tweaks (dorimanx)\n- Dynamically adjust cpufreq_max_limit according to scaling_max (Yank555)",
+			"version": "1.7",
+			"summary": "- Linux 3.0.67\n- Updated Wolfson Sound to 1.6.0\n- mmc: better MoviNAND handling\n- rwsem: steal writing sem for better performance\n- New Mali and Wifi drivers (be careful)\n- Only for 4.2.2",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.6x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.7x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 
