@@ -82,18 +82,18 @@
 		},
 
 		{
-			"version": "2.5",
-			"summary": "- Linux 3.0.63\n- Updated Wolfson Sound to 1.4.9\n- CPU Idle adjustments\n- Updated post-init tweaks",
+			"version": "2.6",
+			"summary": "- Linux 3.0.67\n- Updated Wolfson Sound to 1.6.0\n- mmc: better MoviNAND handling\n- rwsem: steal writing sem for better performance",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.5x-SAMMY.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.6x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.5",
-			"summary": "- Linux 3.0.63\n- Updated Wolfson Sound to 1.4.9\n- CPU Idle adjustments\n- Updated post-init tweaks",
+			"version": "2.6",
+			"summary": "- Linux 3.0.67\n- Updated Wolfson Sound to 1.6.0\n- mmc: better MoviNAND handling\n- rwsem: steal writing sem for better performance\n- New Mali and Wifi drivers (be careful)\n- Only for 4.2.2",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.5x-AOSP.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.6x-AOSP.zip",
 			"type": "aosp"
 		}
 	]
