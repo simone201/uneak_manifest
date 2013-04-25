@@ -2,98 +2,98 @@
 	"Versions":
 	[
 		{
-			"version": "1.8",
-			"summary": "- Linux 3.0.71\n- New WiFi drivers from N8000U5\n- Fixed hw equalizer (and some minor issues)\n- More entropy tweaks\n- Disabled MMC CRCs\n- Various Patches",
+			"version": "1.9",
+			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.8x-SAMMY.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.8",
-			"summary": "- Linux 3.0.71\n- New WiFi drivers from N8000U5\n- Fixed hw equalizer (and some minor issues)\n- More entropy tweaks\n- Disabled MMC CRCs\n- Various Patches",
+			"version": "1.9",
+			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.8x-AOSP.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-AOSP.zip",
 			"type": "aosp"
 		},
 	
 		{
-			"version": "1.8",
-			"summary": "- Linux 3.0.71\n- New WiFi drivers from N8000U5\n- Fixed hw equalizer (and some minor issues)\n- More entropy tweaks\n- Disabled MMC CRCs\n- Various Patches",
+			"version": "1.9",
+			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.8x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.8",
-			"summary": "- Linux 3.0.71\n- New WiFi drivers from N8000U5\n- Fixed hw equalizer (and some minor issues)\n- More entropy tweaks\n- Disabled MMC CRCs\n- Various Patches",
+			"version": "1.9",
+			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.8x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 		
 		{
-			"version": "1.8",
-			"summary": "- Linux 3.0.71\n- New WiFi drivers from N8000U5\n- Fixed hw equalizer (and some minor issues)\n- More entropy tweaks\n- Disabled MMC CRCs\n- Various Patches",
+			"version": "1.9",
+			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.8x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.8",
-			"summary": "- Linux 3.0.71\n- New WiFi drivers from N8000U5\n- Fixed hw equalizer (and some minor issues)\n- More entropy tweaks\n- Disabled MMC CRCs\n- Various Patches",
+			"version": "1.9",
+			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.8x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 		
 		{
-			"version": "1.8",
-			"summary": "- Linux 3.0.71\n- New WiFi drivers from N8000U5\n- Fixed hw equalizer (and some minor issues)\n- More entropy tweaks\n- Disabled MMC CRCs\n- Various Patches",
+			"version": "1.9",
+			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.8x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 
 		{
-			"version": "1.8",
-			"summary": "- Linux 3.0.71\n- New WiFi drivers from N8000U5\n- Fixed hw equalizer (and some minor issues)\n- More entropy tweaks\n- Disabled MMC CRCs\n- Various Patches",
+			"version": "1.9",
+			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.8x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 
 		{
-			"version": "1.8",
-			"summary": "- Linux 3.0.71\n- New WiFi drivers from N8000U5\n- Fixed hw equalizer (and some minor issues)\n- More entropy tweaks\n- Disabled MMC CRCs\n- Various Patches",
+			"version": "1.9",
+			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.8x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.8",
-			"summary": "- Linux 3.0.71\n- New WiFi drivers from N8000U5\n- Fixed hw equalizer (and some minor issues)\n- More entropy tweaks\n- Disabled MMC CRCs\n- Various Patches",
+			"version": "1.9",
+			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.8x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 
 		{
-			"version": "2.8",
-			"summary": "- Linux 3.0.71\n- WiFi drivers from N8000U5 sources\n- New entropy tweaks + frandom\n- disabled MMC CRCs",
+			"version": "2.9",
+			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.8x-SAMMY.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.9x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.8",
-			"summary": "- Linux 3.0.71\n- WiFi drivers from N8000U5 sources\n- New entropy tweaks + frandom\n- disabled MMC CRCs",
+			"version": "2.9",
+			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.8x-AOSP.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.9x-AOSP.zip",
 			"type": "aosp"
 		}
 	]
