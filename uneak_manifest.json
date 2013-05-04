@@ -82,18 +82,18 @@
 		},
 
 		{
-			"version": "2.9",
-			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
+			"version": "3.0",
+			"summary": "- Linux 3.0.76\n- Fixed WiFi Tethering\n- IO improvements\n- TouchWake\n- Veno TCP anti-congestion algorithm\n- Various sched patches",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.9x-SAMMY.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.0x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.9",
-			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
+			"version": "3.0",
+			"summary": "- Linux 3.0.76\n- Fixed WiFi Tethering\n- IO improvements\n- TouchWake\n- Veno TCP anti-congestion algorithm\n- Various sched patches",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-2.9x-AOSP.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.0x-AOSP.zip",
 			"type": "aosp"
 		}
 	]
