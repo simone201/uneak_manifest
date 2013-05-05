@@ -82,18 +82,18 @@
 		},
 
 		{
-			"version": "3.0",
-			"summary": "- Linux 3.0.76\n- Fixed WiFi Tethering\n- IO improvements\n- TouchWake\n- Veno TCP anti-congestion algorithm\n- Various sched patches",
+			"version": "3.0.1",
+			"summary": "- Linux 3.0.76\n- Fixed WiFi Tethering\n- IO improvements\n- TouchWake\n- Veno TCP anti-congestion algorithm\n- Various sched patches\n- Fixed video playback (3.0.1)",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.0x-SAMMY.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.0.1x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "3.0",
-			"summary": "- Linux 3.0.76\n- Fixed WiFi Tethering\n- IO improvements\n- TouchWake\n- Veno TCP anti-congestion algorithm\n- Various sched patches",
+			"version": "3.0.1",
+			"summary": "- Linux 3.0.76\n- Fixed WiFi Tethering\n- IO improvements\n- TouchWake\n- Veno TCP anti-congestion algorithm\n- Various sched patches\n- Tweaked Touchwake (3.0.1)",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.0x-AOSP.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.0.1x-AOSP.zip",
 			"type": "aosp"
 		}
 	]
