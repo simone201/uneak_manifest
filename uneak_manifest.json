@@ -2,98 +2,98 @@
 	"Versions":
 	[
 		{
-			"version": "1.9",
-			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
+			"version": "2.0",
+			"summary": "- Linux 3.0.79\n- TouchWake\n- Kernel LED Alerts\n- WiFi Fixes\n- Sched Patches\n- VENO TCP algorithm\n- Linaro O3 Optimisations",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-SAMMY.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.9",
-			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
+			"version": "2.0",
+			"summary": "- Linux 3.0.79\n- TouchWake\n- Kernel LED Alerts\n- WiFi Fixes\n- Sched Patches\n- VENO TCP algorithm\n- Linaro O3 Optimisations",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-AOSP.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0x-AOSP.zip",
 			"type": "aosp"
 		},
 	
 		{
-			"version": "1.9",
-			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
+			"version": "2.0",
+			"summary": "- Linux 3.0.79\n- TouchWake\n- Kernel LED Alerts\n- WiFi Fixes\n- Sched Patches\n- VENO TCP algorithm\n- Linaro O3 Optimisations",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.9",
-			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
+			"version": "2.0",
+			"summary": "- Linux 3.0.79\n- TouchWake\n- Kernel LED Alerts\n- WiFi Fixes\n- Sched Patches\n- VENO TCP algorithm\n- Linaro O3 Optimisations",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 		
 		{
-			"version": "1.9",
-			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
+			"version": "2.0",
+			"summary": "- Linux 3.0.79\n- TouchWake\n- Kernel LED Alerts\n- WiFi Fixes\n- Sched Patches\n- VENO TCP algorithm\n- Linaro O3 Optimisations",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.9",
-			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
+			"version": "2.0",
+			"summary": "- Linux 3.0.79\n- TouchWake\n- Kernel LED Alerts\n- WiFi Fixes\n- Sched Patches\n- VENO TCP algorithm\n- Linaro O3 Optimisations",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 		
 		{
-			"version": "1.9",
-			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
+			"version": "2.0",
+			"summary": "- Linux 3.0.79\n- TouchWake\n- Kernel LED Alerts\n- WiFi Fixes\n- Sched Patches\n- VENO TCP algorithm\n- Linaro O3 Optimisations",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 
 		{
-			"version": "1.9",
-			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
+			"version": "2.0",
+			"summary": "- Linux 3.0.79\n- TouchWake\n- Kernel LED Alerts\n- WiFi Fixes\n- Sched Patches\n- VENO TCP algorithm\n- Linaro O3 Optimisations",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 
 		{
-			"version": "1.9",
-			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
+			"version": "2.0",
+			"summary": "- Linux 3.0.79\n- TouchWake\n- Kernel LED Alerts\n- WiFi Fixes\n- Sched Patches\n- VENO TCP algorithm\n- Linaro O3 Optimisations",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "1.9",
-			"summary": "- Linux 3.0.74\n- New WiFi drivers (from I9500)\n- Complete unaligned memory access\n- smp: backport from 3.5\n- touchbooster: fixes from DerTeufel\n- Minor fixes",
+			"version": "2.0",
+			"summary": "- Linux 3.0.79\n- TouchWake\n- Kernel LED Alerts\n- WiFi Fixes\n- Sched Patches\n- VENO TCP algorithm\n- Linaro O3 Optimisations",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-1.9x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 
 		{
-			"version": "3.0.1",
-			"summary": "- Linux 3.0.76\n- Fixed WiFi Tethering\n- IO improvements\n- TouchWake\n- Veno TCP anti-congestion algorithm\n- Various sched patches\n- Fixed video playback (3.0.1)",
+			"version": "3.1",
+			"summary": "- Linux 3.0.79\n- Kernel LED Alerts\n- Linaro O3 Optimisations",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.0.1x-SAMMY.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.1x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "3.0.1",
-			"summary": "- Linux 3.0.76\n- Fixed WiFi Tethering\n- IO improvements\n- TouchWake\n- Veno TCP anti-congestion algorithm\n- Various sched patches\n- Tweaked Touchwake (3.0.1)",
+			"version": "3.1",
+			"summary": "- Linux 3.0.79\n- Kernel LED Alerts\n- Linaro O3 Optimisations",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.0.1x-AOSP.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.1x-AOSP.zip",
 			"type": "aosp"
 		}
 	]
