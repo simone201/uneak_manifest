@@ -82,18 +82,18 @@
 		},
 
 		{
-			"version": "3.1",
-			"summary": "- Linux 3.0.79\n- Kernel LED Alerts\n- Linaro O3 Optimisations",
+			"version": "3.1.1",
+			"summary": "- Linux 3.0.80\n- Kernel LED Alerts\n- Linaro O3 Optimisations\n- Fixed cpu stuck at max freq (3.1.1)",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.1x-SAMMY.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.1.1x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "3.1",
-			"summary": "- Linux 3.0.79\n- Kernel LED Alerts\n- Linaro O3 Optimisations",
+			"version": "3.1.1",
+			"summary": "- Linux 3.0.80\n- Kernel LED Alerts\n- Linaro O3 Optimisations\n- Fixed cpu stuck at max freq (3.1.1)",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.1x-AOSP.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.1.1x-AOSP.zip",
 			"type": "aosp"
 		}
 	]
