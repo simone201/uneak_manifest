@@ -2,98 +2,98 @@
 	"Versions":
 	[
 		{
-			"version": "2.0.2",
-			"summary": "- Fixed LED notifications issues\n- Removed default triggers",
+			"version": "2.1",
+			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0.2x-SAMMY.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.0.2",
-			"summary": "- Fixed LED notifications issues\n- Removed default triggers",
+			"version": "2.1",
+			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0.2x-AOSP.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-AOSP.zip",
 			"type": "aosp"
 		},
 	
 		{
-			"version": "2.0.2",
-			"summary": "- Fixed LED notifications issues\n- Removed default triggers",
+			"version": "2.1",
+			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0.2x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.0.2",
-			"summary": "- Fixed LED notifications issues\n- Removed default triggers",
+			"version": "2.1",
+			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0.2x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 		
 		{
-			"version": "2.0.2",
-			"summary": "- Fixed LED notifications issues\n- Removed default triggers",
+			"version": "2.1",
+			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0.2x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.0.2",
-			"summary": "- Fixed LED notifications issues\n- Removed default triggers",
+			"version": "2.1",
+			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0.2x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 		
 		{
-			"version": "2.0.2",
-			"summary": "- Fixed LED notifications issues\n- Removed default triggers",
+			"version": "2.1",
+			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0.2x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 
 		{
-			"version": "2.0.2",
-			"summary": "- Fixed LED notifications issues\n- Removed default triggers",
+			"version": "2.1",
+			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0.2x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 
 		{
-			"version": "2.0.2",
-			"summary": "- Fixed LED notifications issues\n- Removed default triggers",
+			"version": "2.1",
+			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0.2x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.0.2",
-			"summary": "- Fixed LED notifications issues\n- Removed default triggers",
+			"version": "2.1",
+			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.0.2x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 
 		{
-			"version": "3.1.2",
-			"summary": "- Fixed LED notifications issues\n- Removed default triggers",
+			"version": "3.2",
+			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.1.2x-SAMMY.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.2x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "3.1.2",
-			"summary": "- Fixed LED notifications issues\n- Removed default triggers",
+			"version": "3.2",
+			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "GT-I9300",
-			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.1.2x-AOSP.zip",
+			"url": "http://neak-kernel-sgs3.googlecode.com/files/N.E.A.K-S3-3.2x-AOSP.zip",
 			"type": "aosp"
 		}
 	]
