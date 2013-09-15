@@ -2,82 +2,82 @@
 	"Versions":
 	[
 		{
-			"version": "2.1",
-			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
+			"version": "2.2",
+			"summary": "- Linux 3.0.96\n- exFAT Support\n- Disabled some more debug\n- Patching mmc core to save battery",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-SAMMY.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.2x-SAMMY.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.1",
-			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
+			"version": "2.2",
+			"summary": "- Linux 3.0.96\n- exFAT Support\n- CM10.2 Android 4.3 support\n- Dropped 4.2.2 support\n- Disabled some more debug\n- Patching mmc core to save battery",
 			"device": "GT-N7100",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-AOSP.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.2x-AOSP.zip",
 			"type": "aosp"
 		},
 	
 		{
-			"version": "2.1",
-			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
+			"version": "2.2",
+			"summary": "- Linux 3.0.96\n- exFAT Support\n- Disabled some more debug\n- Patching mmc core to save battery",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.2x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.1",
-			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
+			"version": "2.2",
+			"summary": "- Linux 3.0.96\n- exFAT Support\n- CM10.2 Android 4.3 support\n- Dropped 4.2.2 support\n- Disabled some more debug\n- Patching mmc core to save battery",
 			"device": "GT-N7105",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.2x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 		
 		{
-			"version": "2.1",
-			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
+			"version": "2.2",
+			"summary": "- Linux 3.0.96\n- exFAT Support\n- Disabled some more debug\n- Patching mmc core to save battery",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.2x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.1",
+			"version": "2.2",
 			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
 			"device": "SGH-T889",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.2x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 		
 		{
-			"version": "2.1",
-			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
+			"version": "2.2",
+			"summary": "- Linux 3.0.96\n- exFAT Support\n- Disabled some more debug\n- Patching mmc core to save battery",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.2x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 
 		{
-			"version": "2.1",
-			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
+			"version": "2.2",
+			"summary": "- Linux 3.0.96\n- exFAT Support\n- CM10.2 Android 4.3 support\n- Dropped 4.2.2 support\n- Disabled some more debug\n- Patching mmc core to save battery",
 			"device": "SGH-T889V",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.2x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 
 		{
-			"version": "2.1",
-			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
+			"version": "2.2",
+			"summary": "- Linux 3.0.96\n- exFAT Support\n- Disabled some more debug\n- Patching mmc core to save battery",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-SAMMY-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.2x-SAMMY-LTE.zip",
 			"type": "sammy"
 		},
 		
 		{
-			"version": "2.1",
-			"summary": "- Linux 3.0.87\n- Ignore unstable power and margin\n- Updated BFQv6r2\n- Updated WiFi drivers\n- Touchwake 1.1 (thx to Yank555)\n- Minor changes",
+			"version": "2.2",
+			"summary": "- Linux 3.0.96\n- exFAT Support\n- CM10.2 Android 4.3 support\n- Dropped 4.2.2 support\n- Disabled some more debug\n- Patching mmc core to save battery",
 			"device": "SGH-I317",
-			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.1x-AOSP-LTE.zip",
+			"url": "http://neak-kernel-note2.googlecode.com/files/N.E.A.K-Note2-2.2x-AOSP-LTE.zip",
 			"type": "aosp"
 		},
 
